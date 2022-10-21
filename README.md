@@ -76,6 +76,30 @@ Group book discussion questions for small to mid-sized companies. Some borrowed 
 - Technical Debt - unplanned work caused by applications in production, which cause short cuts to be taken in new applications which leads to more unplanned work. All work is used to keeping old systems alive. This is all time spent fire fighting it is a death march - firefighting leads to shortcuts which leads to more unplanned work and fragile systems
     - Can you identify what is causing you a large amount of technical debt?
 
+### Chapters 19 - 21
+- What is your/our definition of a 'completed project' - where may varying definitions have bit us?
+- In Chapter 19 it talks about the process the plant floor uses to determine if they can take on more work. Bill observes, "I’m pretty sure we (IT) don’t do any sort of analysis of capacity and demand before we accept work." What would an IT analysis of capacity look like, and what do you need to know to do it? 
+an you think of a time when planned work had to be cut due to unplanned work? 
+- Can you think of a time when planned work had to be cut due to unplanned work?
+- Bill asks, "how does anyone decide what needs to get worked on" and Wes responds with, "we trust people to make the right decision based on the data they have. That's why we hire smart people." What are potential issues that can come from this way of thinking? 
+  - Bill replies with "and on what data do our smart people base their prioritization decisions?" 
+  - On what data do you prioritize planned work effectively while protecting time for unplanned work? 
+- In Chapter 20 Consider the statement, ‘Improving daily work is even more important than doing daily work.’ Do you agree? Disagree? Any examples?
+- Do you agree with this statement as it applied to IT? "Elevating maintenance is the most important thing we can do to ensure machine availablity. This reduces unplanned work (Total Productive Maintence program TPM) and Lean community use this method"
+- What methods or frameworks can be used to ensure IT securtiy policies and tasks are tied to actual risks the business needs to treat?
+- What do you think of these 3 questions to ask about a project before accepting it?
+  - Will it increase flow of project work through IT?
+  - Will it increase stability or decrease time required to detect and recover from outage or security breach?
+  - Will it increase capacity of a team or worker?
+- How does the quote from Erik "When a resource is 99% utilized, you have to wait 99 times as long as if that resource is 50% utilized" impact scheduled for IT teams? Do you agree with his quote?
+- Consider the statement, ‘Improving daily work is even more important than doing daily work.’ Do you agree? Disagree? Any examples?
+- Brent on page 209 is described as a 'worker supporting too many work centers.' Why is this view better than Bill's initial of saying Brent was the constrained work center?
+
+
+
+
+
+
 
 
 
