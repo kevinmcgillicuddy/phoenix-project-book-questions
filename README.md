@@ -95,6 +95,16 @@ an you think of a time when planned work had to be cut due to unplanned work?
 - Consider the statement, ‘Improving daily work is even more important than doing daily work.’ Do you agree? Disagree? Any examples?
 - Brent on page 209 is described as a 'worker supporting too many work centers.' Why is this view better than Bill's initial of saying Brent was the constrained work center?
 
+### Chapters 22 - 24
+-'Bill, I don’t need to remind you that we're not running a factory here. This is IT work. we work with our brains to get this done, not our hands. I know Erik has said a couple of smart things here and there but come on, this sounds like some sort of consultant parlor trick' 
+  - Do you find yourself getting uncomfortable at times with the factory language in the book like Wes?  
+- What is a work center and what are some in our department?  
+- On page 214/215 Erik explains why he does not think it’s a good idea to go after some proposed work by the CISO - i.e. the security audit findings. His 3 questions he asks are (Do they increase flow of project work through IT? Do they increase stability or decrease time required to detect and recover from outage or security breach? Do they increase capacity of a work center or workers)
+  - What do you think about this way to evaluate work? 
+- What are some benefits of Kanban as Patty shared on pages 227 through 230 
+- Patty starts to identify some IT work centers that are analogous to paint stations or heat treat ovens on the factory floor. A work center needs people, methods, measurements, and equipment. What are some work centers in our team as we think about work? Remember people are not work centers. 
+- Identifying and being aware of constraints is important because the control and limit Work in Progress and must be the focus of improvements (pg230). What are some of our current work center constraints?  
+- Have you, or anyone you’ve known, ever "hit bottom" like John in his personal crisis? What coping strategies do you have, or have you seen people use? 
 
 
 
