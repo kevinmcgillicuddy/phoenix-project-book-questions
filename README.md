@@ -106,12 +106,23 @@ an you think of a time when planned work had to be cut due to unplanned work?
 - Identifying and being aware of constraints is important because the control and limit Work in Progress and must be the focus of improvements (pg230). What are some of our current work center constraints?  
 - Have you, or anyone you’ve known, ever "hit bottom" like John in his personal crisis? What coping strategies do you have, or have you seen people use? 
 
+### Chapters 25 - 30
+- John asks Dick questions, would you add or remove any from this list? Have you ever done this with a business unit leader before?
+    - What makes a good day or bad day
+	  - What do you do here
+    - What are your goals
+- Think of the most powerful executive you know, or deal with on any basis. What seem to be their concerns? Can you draw any parallels to the discussions in Chapter 26?
+- Discuss the table of various IT services relied on by the executives they visit (CFO, Sales, Marketing) and the consequences for when they fail. Note any where you do not understand the service or why it presents risk and discuss in class.
+- It’s been 10 years since the legendary "10 Deploys a Day" presentation (a true event) mentioned in this chapter. Are increasingly frequent deployments less risky? More risky? Discuss
 
-
-
-
-
-
+### Chapters 31 - END
+- Patty mentions that Sarah's insecurities lead to doing whatever it takes not to look bad. Why would she suggest this (Is it true)? 
+- On page 284. What are your observations on the argument Bill and Sarah have when she is confronted about the unauthorized IT initiatives?
+- What work is IT facing that comes back 'upstream'. Are there constraints that need to be at an earlier part in the flow/stage?
+- On Page 332, Steve says, "In order for Parts Unlimited to Survive, the business and IT can't make decisions exclusive from one another." How have you seen this improve over the years you have worked here at our workplace? What has the impact been?
+- Page 333, Steve quotes Erik and says,  "A dysfunctional marriage assumes that the business and IT Are two separate entities. IT should either be embedded into business operations or into the business. Voila! There you go. No tension, no marriage and maybe no IT dept either." What do you think he means by that last sentence?
+- Has the culture changed throughout the book, and if so, how?
+- What are some lessons or insights that you think can be applied to real-world IT scenarios at our work place?
 
 
 
