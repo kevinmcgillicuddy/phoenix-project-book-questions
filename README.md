@@ -109,7 +109,7 @@ an you think of a time when planned work had to be cut due to unplanned work?
 ### Chapters 25 - 30
 - John asks Dick questions, would you add or remove any from this list? Have you ever done this with a business unit leader before?
     - What makes a good day or bad day
-	  - What do you do here
+    - What do you do here
     - What are your goals
 - Think of the most powerful executive you know, or deal with on any basis. What seem to be their concerns? Can you draw any parallels to the discussions in Chapter 26?
 - Discuss the table of various IT services relied on by the executives they visit (CFO, Sales, Marketing) and the consequences for when they fail. Note any where you do not understand the service or why it presents risk and discuss in class.
